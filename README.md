@@ -1,4 +1,4 @@
 # Post title font size
-### Give each post title a custom font size
+### Give each WP post title a custom font size
 
-Now write something useful here...
+A small and simple WordPress plugin to adjust each post title font size as desired
