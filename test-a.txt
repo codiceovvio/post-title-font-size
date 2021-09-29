@@ -1,2 +1,2 @@
 Nuova linea modificata
-ne aggiungo un'altra: in locale questo file è ignorato, vediamo che succede
+modifico questa riga solo su remoto
